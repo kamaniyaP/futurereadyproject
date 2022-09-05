@@ -70,4 +70,4 @@
   On clicking on Services, the page redirects to Services page<br>
   On clicking on Contact, the page remains static<br>
  </p>
-<p>Link for the website - </p>
+<p>Link for the website - https://calm-pond-064311b10.1.azurestaticapps.net/</p>
