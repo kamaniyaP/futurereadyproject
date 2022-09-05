@@ -4,7 +4,7 @@
 
 <br/>
 <h2>Home</h2>
-[image](https://user-images.githubusercontent.com/112877487/188466723-d1a28e3b-630e-4292-8584-8a4e01791134.png)
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/112877487/188466723-d1a28e3b-630e-4292-8584-8a4e01791134.png">
 ![image](https://user-images.githubusercontent.com/112877487/188467078-c47b0a2c-d5f4-40e3-89f7-3e174987ff19.png)
 ![image](https://user-images.githubusercontent.com/112877487/188467229-f2e78264-e40c-4a49-b003-fca7c4106f3e.png)
 ![image](https://user-images.githubusercontent.com/112877487/188467311-8add8bf6-209e-452c-af9f-ff79fb98a3ca.png)
