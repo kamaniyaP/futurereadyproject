@@ -62,7 +62,7 @@
  <img width="945" alt="image" src="https://user-images.githubusercontent.com/112877487/188469667-aba6ef55-f0a5-406a-81b9-29daaeedf54c.png">
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/112877487/188469773-0ca899bc-7155-4046-8c23-3541242c6be7.png">
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/112877487/188469865-b9807af8-6382-4d2f-b429-b96d094ed15f.png">
-<p>Conattc Page includes the details to contact the administration</p>
+<p>Contact Page includes the details to contact the administration</p>
 <h3>Navigation Functioning</h3>
  <p>
   On clicking on Home, the page redirects to Home page<br>
